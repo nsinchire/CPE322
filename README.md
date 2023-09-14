@@ -7,8 +7,6 @@
 - laundry
 
   ## images
-  ![picture of ny](file:///C:/Users/nsinc/Downloads/cosmos.jpg)
-  ![picture of soccer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goal.com%2Fen-us%2Fnews%2Fhow-to-draw-soccer-ball-step-by-step-guide%2Fblt91de0f2f663a8ff7&psig=AOvVaw2hUyXsvHxv9Px76fLF0K82&ust=1694789520928000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLDowo-tqoEDFQAAAAAdAAAAABAD)
 ![cosmos](https://github.com/nsinchire/CPE322/assets/144704987/1776f5fc-bc82-42bf-afc9-58360c6a16c5)
 
 ## quotes
