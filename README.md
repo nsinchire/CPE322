@@ -25,5 +25,6 @@ git commit
 ```
 ## Fun Fact
 I love to play soccer and swim!
+
 I am eager to learn more from this class!
 
