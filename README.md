@@ -12,5 +12,7 @@
 
 ## quotes
 * > "The only limit to our realization of tomorrow will be our doubts of today." – Franklin D. Roosevelt
-* > “Change your thoughts, and you change your world.”— Norman Vincent Peale
-* > "All our dreams can come true if we have the courage to pursue them.” — Walt Disney
+* > "Don't watch the clock; do what it does. Keep going." – Sam Levenson
+* > "The best way to predict the future is to create it." – Peter Drucker
+
+
